@@ -1,5 +1,4 @@
 # eV-2020
-<h1>eV-2020</h1>
 <h2>Ricardo Dueñas</h2>
 
 eV-2020 es un entorno virtual sonoro para la interacción con materiales de audio producidos por estudiantes de colegios distritales de Bogotá en desarrollo de actividades del programa Crea de Idartes. 
