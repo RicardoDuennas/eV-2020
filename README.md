@@ -9,7 +9,7 @@ Se cambia la orientación con el ratón y se navega con las teclas de flecha. El
 
 
 
-Colaboradores:</br>
+Colaboradores:
 </br>Luis Eduardo Gómez: Grabaciones de audio y objetos 3D suspendidos 
 </br>Juliana Ortigoza: Grabaciones de audio 
 </br>Pablo Guchuvo: Grabaciones de audio
